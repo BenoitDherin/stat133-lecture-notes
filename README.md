@@ -1,0 +1,40 @@
+# Lecture Notes (Stat 133)
+
+Ipython notebooks covering the class material 
+
+* [Lecture 1 - Unix - Introduction to the command line](http://nbviewer.ipython.org/urls/db.tt/UCStofg5?create=1)
+* [Lecture 2 - Unix - Command Input/Output](http://nbviewer.ipython.org/urls/db.tt/RJEYoTcj?create=1)
+* [Lecture 3 - Unix - Textual Data Processing](http://nbviewer.ipython.org/urls/db.tt/nYt8ZtrX?create=1)
+* [Lecture 4 - Python - Elements of functional programming](http://nbviewer.ipython.org/urls/db.tt/YPypds6X?create=1)
+* [Lecture 5 - Python - Elements of object oriented programming](http://nbviewer.ipython.org/urls/db.tt/q2sazAoI)
+* [Lecture 6 - Python - Data structures and vectorization](http://nbviewer.ipython.org/urls/db.tt/mqDqxYbq)
+* [Lecture 7 - Python - Pandas series and data frames](http://nbviewer.ipython.org/urls/db.tt/PUeNS3i3)
+* [Lecture 8 - Python - Categorical variables in Pandas](http://nbviewer.ipython.org/urls/db.tt/vQPduJzH)
+* [Lecture 9 - Python - Quantitative variables in Pandas](http://nbviewer.ipython.org/urls/db.tt/0L8KKOHF)
+* [Lecture 10 - R - Anatomy of the language](http://nbviewer.ipython.org/urls/db.tt/4HcSWSjB?create=1)
+* [Lecture 11 - R- Data types and data structures](http://nbviewer.ipython.org/urls/db.tt/FbSpsC3T)
+* [Lecture 12 - R - Data frames and matrices](http://nbviewer.ipython.org/urls/db.tt/dwmucRO1)
+* [Lecture 13 - R - The data analysis process](http://nbviewer.ipython.org/urls/db.tt/T3Xfq0Ip)
+* [Lecture 14 - R - Gathering data](http://nbviewer.ipython.org/urls/db.tt/MBDpPDwj)
+* [Lecture 15 - R - Cleaning data](http://nbviewer.ipython.org/urls/db.tt/Wy5D5dn4)
+* [Lecture 16 - R - Analyzing and Visualizing data I](http://nbviewer.ipython.org/urls/db.tt/9zt6JvTU)
+* [Lecture 17 - R - Analysing and Visualizing data II](https://bspace.berkeley.edu/access/content/group/926cb4c1-a81d-4707-adc6-5e3615945025/Lecture%20notebooks/nbviewer.ipython.o20131117140346.URL)
+* [Review Final - Vectors, Lists, Functions, and Classes in R](http://nbviewer.ipython.org/urls/db.tt/4onLImB0?create=1)
+* [Review Midterm - The anatomy of Mister Python](http://nbviewer.ipython.org/urls/db.tt/bJGm9XlB)
+
+
+# Homework
+
+* [HW1 - Unix - Getting started](http://nbviewer.ipython.org/urls/db.tt/l5SQ1rwu)
+* [HW2 - Unix - Text processing](http://nbviewer.ipython.org/urls/db.tt/HifexaJ3)
+* [HW3 - Python - Looping and branching](http://nbviewer.ipython.org/urls/db.tt/ol0Sdlkp)
+* [HW4 - Python - Functions and classes](http://nbviewer.ipython.org/urls/db.tt/YH9JK0l7)
+* [HW5 - Python - Functions and classes](http://nbviewer.ipython.org/urls/db.tt/5q4ZrzKM)
+* [HW6 - Python - Pandas data frames and series](http://nbviewer.ipython.org/urls/db.tt/TsJPwjAv)
+* [HW7 - Python - Midterm review](http://nbviewer.ipython.org/urls/db.tt/NkMTPxS4)
+* [HW8 - Python - Data anlysis in Pandas](http://nbviewer.ipython.org/urls/db.tt/fWJ0ziuI)
+* [HW9 - R - Vectors and types](http://nbviewer.ipython.org/urls/db.tt/Famva4s0)
+* [HW10 - R - Functions and classes](http://nbviewer.ipython.org/urls/db.tt/c2y7lkMD)
+* [HW11 - R - Simulating data frames](http://nbviewer.ipython.org/urls/db.tt/ILMVHDmO)
+* [HW12 - R - Gathering and cleaning data](http://nbviewer.ipython.org/urls/db.tt/O6mpxWIL)
+* [HW13 - R - Final exam review](http://nbviewer.ipython.org/urls/db.tt/dGtceyoD)
